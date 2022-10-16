@@ -402,6 +402,8 @@ ul {
 
 .footer {
   background-color: var(--primary-text-color);
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .last-words {
@@ -423,7 +425,7 @@ ul {
   fill: var(--main-text-color);
 }
 
-.social-link:hover,
+/* .social-link:hover,
 .social-link:focus {
   fill: var(--accent-color);
-}
+} */
